@@ -32,3 +32,7 @@ Now that you've chosen which enviornment you will be using to compile your ECMAS
 #### Cloud9 Setup
 https://www.youtube.com/watch?v=iTfPsPdewC8#action=share
 
+### Run Scripts
+
+When you are ready to compile youre ecmascript into compatiable JS for your browser runt the below script in your terminal:
+``` ./node_modules/.bin/babel src --out-dir lib --presets=@babel/env ```
