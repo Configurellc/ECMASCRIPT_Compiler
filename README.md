@@ -25,4 +25,8 @@ There are many great online IDE's available on the internet I will list out a fe
 
 3. [Codeanywhere](https://codeanywhere.com/) - This a great editor with the tools needed to compile ECMASCRIPT the only drawback is its free model is extremely limited. On its free model you are given 120 mins max a day which may not be a bad thing if you are simply pasting this code into this tool to compile your ECMASCRIPT. Also on the free model you are limited to one container/workspace but you can create multiple projects within that container.
 
-4.
+## Setting Up your IDE
+
+Now that you've chosen which enviornment you will be using to compile your ECMASCRIPT I will walk you through how to set everything up and repeat the process for future projects. 
+
+
