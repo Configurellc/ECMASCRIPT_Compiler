@@ -13,4 +13,4 @@ We develop in a world today where JavaScript is no longer our limitation but the
 Get setup in 10 minutes or less using the following steps so you can began compiling your ECMASCRIPT.
 
 - [ ] GitHub Account- If you do not already have a GitHub account follow this [link](https://github.com/join) to create one. If you do have a GitHub account ensure you are logged in. 
-- [ ] Cloud9 Account- If you do not already have a Cloud9 account follow this [link](
+- [ ] Online IDE Account - If you currently use an online IDE ensure that it offers you a virtual command line as well as supports node. If you do not have an account I will be providing you a list of top online IDE that support both. 
