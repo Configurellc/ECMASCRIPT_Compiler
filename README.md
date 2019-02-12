@@ -21,7 +21,7 @@ There are many great online IDE's available on the internet I will list out a fe
 
 1. [Cloud9](https://www.cloud.io) - This is my preferred editor and if you were lucky enough to sign up anytime before Amazon's acquisition its still available for you. If not, sorry they have closed down any further signups. You can register for their **AWS Cloud9** version [here](https://aws.amazon.com/cloud9/) but amazon will require a credit card to be on file.
 
-2. [Eclipse Che (codenvy)](https://www.eclipse.org/che/)- When Amazon eventually deprecates Cloud9 this will be its successor. Very power web IDE with a great front end interface. Use the **SaaS- Create Free Account** choice if you go with this IDE. The software was created by Red Hat Software, they will require to create an account which will act as the master login if you decide to use more their technologies.
+2. [Eclipse Che (codenvy)](https://www.eclipse.org/che/)- When Amazon eventually deprecates Cloud9 this will be its successor. Codenvy is a very powerful web IDE with a great front end interface. Use the **SaaS- Create Free Account** choice if you go with this IDE. The software was created by Red Hat Software, they will require to create an account which will act as the master login if you decide to use more their technologies.
 
 3. [Codeanywhere](https://codeanywhere.com/) - This a great editor with the tools needed to compile ECMASCRIPT the only drawback is its free model is extremely limited. On its free model you are given 120 mins max a day which may not be a bad thing if you are simply pasting this code into this tool to compile your ECMASCRIPT. Also on the free model you are limited to one container/workspace but you can create multiple projects within that container.
 
