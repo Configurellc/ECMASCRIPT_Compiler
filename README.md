@@ -29,5 +29,6 @@ There are many great online IDE's available on the internet I will list out a fe
 
 Now that you've chosen which enviornment you will be using to compile your ECMASCRIPT I will walk you through how to set everything up and repeat the process for future projects. 
 
-
+#### Cloud9 Setup
+https://www.youtube.com/watch?v=iTfPsPdewC8#action=share
 
