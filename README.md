@@ -43,7 +43,7 @@ coming soon
 The time has finally come..it time to compile your ecmascript into compatiable JS for your browser run the below script in your terminal:
 ``` ./node_modules/.bin/babel src --out-dir lib --presets=@babel/env ```
 
-Once  completed check the ./lib/script.js file for your browser compatiable code. 
+Once  completed check the ``` ./lib/script.js ``` file for your browser compatiable code. 
 
 ## Conclusion
 
